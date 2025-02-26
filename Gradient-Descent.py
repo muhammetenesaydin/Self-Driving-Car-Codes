@@ -1,3 +1,4 @@
+# Import necessary libraries  #  gerekli lkütüphaneleri yüklüyoruz 
 import numpy as np
 import matplotlib.pyplot as plt
 
